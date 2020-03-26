@@ -1,0 +1,8 @@
+{
+  "name": "demo103",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "56ef6ab3"
+}
